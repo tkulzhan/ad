@@ -1,0 +1,38 @@
+[
+  {
+    "url": "/",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 0
+  },
+  {
+    "url": "/home",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 1
+  },
+  {
+    "url": "/about",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 5
+  },
+  {
+    "url": "/contacts",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 6
+  },
+  {
+    "url": "/about",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 3
+  },
+  {
+    "url": "/home",
+    "ip": "[::1]:50201",
+    "timestamp": 1727687267,
+    "timeSpent": 5
+  }
+]
