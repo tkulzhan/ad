@@ -1,38 +1,38 @@
 [
   {
-    "url": "/",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 0
+    "url": "http://example.com",
+    "ip": "192.168.1.1",
+    "timestamp": 2024,
+    "timeSpent": 120
   },
   {
-    "url": "/home",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 1
+    "url": "http://example.com",
+    "ip": "192.168.1.2",
+    "timestamp": 2024,
+    "timeSpent": 90
   },
   {
-    "url": "/about",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 5
+    "url": "http://example.org",
+    "ip": "192.168.1.1",
+    "timestamp": 2024,
+    "timeSpent": 200
   },
   {
-    "url": "/contacts",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 6
+    "url": "http://example.org",
+    "ip": "192.168.1.3",
+    "timestamp": 2024,
+    "timeSpent": 150
   },
   {
-    "url": "/about",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 3
+    "url": "http://example.net",
+    "ip": "192.168.1.4",
+    "timestamp": 2024,
+    "timeSpent": 180
   },
   {
-    "url": "/home",
-    "ip": "[::1]:50201",
-    "timestamp": 1727687267,
-    "timeSpent": 5
+    "url": "http://example.com",
+    "ip": "192.168.1.2",
+    "timestamp": 2024,
+    "timeSpent": 75
   }
 ]

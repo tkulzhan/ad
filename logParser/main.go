@@ -20,7 +20,7 @@ func main() {
 	tail := flag.Int("tail", 0, "Number of lines to read from the end of the file")
 	flag.Parse()
 
-	logFile, err := os.Open("server.log")
+	logFile, err := os.Open("server.log.csv")
 	if err != nil {
 		fmt.Println("Error opening log file:", err)
 		return
